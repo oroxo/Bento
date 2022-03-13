@@ -141,20 +141,20 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'X-Team Radio - Lo-Fi',
+          link: 'https://radio.x-team.com/room?id=gyeh6H1mvb6PG2n80SG4',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'X-Team Radio - Zen',
+          link: 'https://radio.x-team.com/room?id=da3VcHiCdrFLPqdtecA5',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Karasu - Youtube',
+          link: 'https://youtu.be/pO-fTpAGHRk',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Minamoto - Youtube',
+          link: 'https://youtu.be/uV9c1RIvLgQ',
         },
       ],
     },
