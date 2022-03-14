@@ -189,20 +189,20 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Spotify',
-          link: 'https://www.spotify.com',
+          name: 'Lenuaje JS - Tutoriales',
+          link: 'https://lenguajejs.com/',
         },
         {
           name: 'Reddit',
           link: 'https://www.reddit.com',
         },
         {
-          name: 'Hashnode',
-          link: 'https://www.hashnode.com',
+          name: 'Vue Dev Server',
+          link: 'http://localhost:8080',
         },
         {
-          name: 'Pocket',
-          link: 'https://www.pocket.com',
+          name: 'Pgadmin 4',
+          link: 'http://localhost:5050',
         },
       ],
     },
